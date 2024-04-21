@@ -1,0 +1,62 @@
+Notes of AI Workshop.
+
+1. Steps to make a presentation 
+ 
+Research(About a Topic) --> Outline(Raw Plan) --> Design(Designing the PPT).
+Tool #1: Research any sort of topic  --CHAT-GPT
+
+2. Tool to create a end to end PPT
+
+Tool #2: Gamma.app
+
+3. Tool to remove the paywall of the websites
+
+Copy and paste the website URL having the paywall
+Tool #3:paywallhub.com or archive.is
+
+4. Tool to download reserach papers
+
+Copy and paste the name of the research paper
+Tool #4: sci-hub.se
+
+5. Tool to translate the given text to some other language.
+
+Tool #5: Merlin chrome extention
+Note: SORA - An upcoming open AI project. AI to make videos by prompt.
+
+6. Tool to generate AI images
+
+Tool #6: playground.ai
+
+7. Tool for speech coach for an interview.
+
+Tool #7:app.yoodli.ai 
+
+8. Tool to write complicate code
+
+Tool #8: Bard or Gemini.google.com
+
+9. Tool to debug the code
+
+Tool #9 : debugcode.ai or https://codedamn.com/
+
+10. Tool to generate excel formulas and sql queries
+
+Tool #10 :formula.dog
+
+11. Tool to make ATS friendly resume making
+
+Tool #11:CHAT-GPT
+Prompt:
+below is my resume
+<
+
+>
+
+below is my job description
+<
+
+>
+Act as a resume expert. modify my above resume to make it an ATS friendly resume for the above job that i want to apply.
+
+
